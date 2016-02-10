@@ -1,7 +1,7 @@
 import SQLite
 
 class SQLWrapper: Wrapper {
-  public static int VERSION = "0.0.4"
+  public static int VERSION = "0.0.3"
 
   public override init() {
     super.init()
