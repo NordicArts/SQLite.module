@@ -1,6 +1,6 @@
 import PackageDescription
 
-let package = Packge(
+let package = Package(
   name: "SQLiteWrapper",
   dependencies: [
 
